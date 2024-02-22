@@ -23,15 +23,15 @@ _Generative artificial intelligence is artificial intelligence capable of genera
 The GenAI market is $11.3 billion in 2023 and will reach $51.8 billion by 2028 (source: Markets and Markets)
 
 Example of GenAI models:
-ChatGPT: Our AI Stylist was built by prompting ChatGPT asking the model to act as our personalised ASOS fashion stylist.
+ChatGPT: Our AI Stylist was built by prompting ChatGPT asking the model to act as our personalised ASOS fashion stylist: https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjY0OTAzMjEzMjQyNzc3NiJ9?trk_copy_link=V1
 
 <img src="./images/aistylist.png" width="500">
 
-DALL-E: A vision model developed by OpenAI capable of photorealistc image generation from a simple descrpition in plain English (read more at https://asoscom.atlassian.net/wiki/spaces/DS/pages/4398973130/R+D+DALL-E)
+DALL-E: A vision model developed by OpenAI capable of photorealistc image generation from a simple descrpition in plain English, read more at https://asoscom.atlassian.net/wiki/spaces/DS/pages/4398973130/R+D+DALL-E
 
 <img src="./images/dalle.png" width="300">
 
-GPT4-V: A GenAI model that accepts both text and image prompts (multimodal), it can reason from the content in the image and has the same capabilities as GPT-4 for text (read more at https://asoscom.atlassian.net/wiki/spaces/DS/pages/4397629494/R+D+gpt-4v+vision).
+GPT4-V: A GenAI model that accepts both text and image prompts (multimodal), it can reason from the content in the image and has the same capabilities as GPT-4 for text, read more at https://asoscom.atlassian.net/wiki/spaces/DS/pages/4397629494/R+D+gpt-4v+vision
 
 <img src="./images/gpt4v.png" width="350">
 

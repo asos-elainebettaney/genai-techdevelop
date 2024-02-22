@@ -27,8 +27,9 @@ def get_n_day_weather_forecast(location, format, num_days):
 
 @tool
 def run_function(response_message: dict) -> str:
-    if "function_call" in response_message:
+    if response_message.get("function_call"):
         function_name = response_message["function_call"]["name"]
+        print (function_name)
         function_args = json.loads(response_message["function_call"]["arguments"])
         print(function_args)
         result = globals()[function_name](**function_args)

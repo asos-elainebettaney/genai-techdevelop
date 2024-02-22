@@ -5,7 +5,6 @@ os.environ["AZURE_OPENAI_API_KEY"]="" # TODO copy your AZURE OPENAI KEY
 os.environ["AZURE_OPENAI_ENDPOINT"]="" # TODO copy your AZURE OPENAI ENDPOINT URL
 os.environ["AZURE_DEPLOYMENT_NAME"]="" # TODO copy your Azure OPENAI DEPLOYMENT NAME
 
-
 client = AzureOpenAI(
   azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT"), 
   api_key=os.getenv("AZURE_OPENAI_KEY"),    
